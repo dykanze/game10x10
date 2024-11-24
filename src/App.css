@@ -1,0 +1,95 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  margin: 15px 0;
+}
+
+#titleInfo {
+  text-align: center;
+  font-size: 4rem;
+  font-family: Monaco, Consolas, "Courier New";
+}
+#titleInfo .blue {
+  color: #1874cd;
+}
+
+#titleInfo .yellow {
+  color: #ffc125;
+}
+
+#titleInfo .red {
+  color: #cd2626;
+}
+
+#scoreInfo {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 1rem;
+  font-family: Monaco, Consolas, "Courier New";
+}
+
+#info {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Monaco, Consolas, "Courier New";
+}
+
+#table {
+  position: relative;
+  margin: 0 auto;
+}
+
+#table div,
+#drag {
+  border-radius: 5px;
+}
+
+#bricks {
+  position: relative;
+  margin: 10px auto;
+}
+
+.c1 {
+  background-color: #7b68ee;
+}
+
+.c2 {
+  background-color: #ffd700;
+}
+
+.c3 {
+  background-color: #ffa500;
+}
+
+.c4 {
+  background-color: #ff3e96;
+}
+
+.c5 {
+  background-color: #cd4f39;
+}
+
+.c6 {
+  background-color: #76ee00;
+}
+
+.c7 {
+  background-color: #48d1cc;
+}
+
+.c8 {
+  background-color: #3cb371;
+}
+
+.c9 {
+  background-color: #00b2ee;
+}
+
+.default {
+  background-color: #dddddd;
+}
